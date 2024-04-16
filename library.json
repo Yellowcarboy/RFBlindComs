@@ -1,0 +1,19 @@
+{
+  "name": "RFBlindComs",
+  "description": "Use your Arduino or Raspberry Pi to operate remote radio controlled blinds",
+  "keywords": "rf, radio, wireless",
+  "authors":
+  {
+    "name": "YellowCarBoy"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "version": "1.0.0",
+  "frameworks": [
+        "arduino"
+  ],
+  "platforms": "*"
+}
